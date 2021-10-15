@@ -1,2 +1,2 @@
 # 1vs1
-1vs1 plugin using PronixCore
+1vs1 plugin using LienePvP
